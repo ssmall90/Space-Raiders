@@ -1,0 +1,13 @@
+C:\Users\719677\source\repos\Space-Raiders\Space Raiders\bin\Debug\Space Raiders.exe.config
+C:\Users\719677\source\repos\Space-Raiders\Space Raiders\bin\Debug\Space Raiders.exe
+C:\Users\719677\source\repos\Space-Raiders\Space Raiders\bin\Debug\Space Raiders.pdb
+C:\Users\719677\source\repos\Space-Raiders\Space Raiders\obj\Debug\Space Raiders.csproj.AssemblyReference.cache
+C:\Users\719677\source\repos\Space-Raiders\Space Raiders\obj\Debug\Space Raiders.csproj.SuggestedBindingRedirects.cache
+C:\Users\719677\source\repos\Space-Raiders\Space Raiders\obj\Debug\Space_Raiders.Form1.resources
+C:\Users\719677\source\repos\Space-Raiders\Space Raiders\obj\Debug\Space_Raiders.Properties.Resources.resources
+C:\Users\719677\source\repos\Space-Raiders\Space Raiders\obj\Debug\Space Raiders.csproj.GenerateResource.cache
+C:\Users\719677\source\repos\Space-Raiders\Space Raiders\obj\Debug\Space Raiders.csproj.CoreCompileInputs.cache
+C:\Users\719677\source\repos\Space-Raiders\Space Raiders\obj\Debug\Space Raiders.exe
+C:\Users\719677\source\repos\Space-Raiders\Space Raiders\obj\Debug\Space Raiders.pdb
+C:\Users\719677\source\repos\Space-Raiders\Space Raiders\obj\Debug\Interop.WMPLib.dll
+C:\Users\719677\source\repos\Space-Raiders\Space Raiders\obj\Debug\Space Raiders.csproj.ResolveComReference.cache
